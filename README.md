@@ -52,3 +52,8 @@ put the number and start it. any phone number must be started with 9xxxxxx. **DO
 I'm not familiar with POSTMAN or any other REST API Clients(but I know what is Fiddler4).
 I added MPT_API.paw which could be open on the mac with PAW Client. I would post more APIs here.
 AGAIN, Dont put me in trouble.
+
+#### **What would I learn from this repo?**
+Using MPT number is not secure in Myanmar. Check this old script which just included invalid HTTP Headers,
+expired Tokens, unused SessionID are still works in these days without any validation. You can get the
+other people's information with ur own generated access token or session id.
