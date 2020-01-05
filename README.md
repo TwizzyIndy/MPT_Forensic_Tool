@@ -1,4 +1,4 @@
-# MPT Forensic Tool**
+# MPT Forensic Tool
 
 We, me and **a guy who living in Mogok**, triggered the main bug which could leads to made unlimited lucky draw existed on the
 MPT server(mcare.mpt.com.mm). I just thought it was a bug while parsing the value of data type conversion occured when we try to put the user's MSISDN (phone number).
